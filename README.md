@@ -1,6 +1,6 @@
 # R-alisez-une-application-de-recommandation-de-contenu
 
-Système de recommandation hybride – Filtrage de contenu & collaboratif
+Système de recommandation hybride – Filtrage de contenu - collaboratif & Modèles implicites
 
 ### Présentation du projet
 Ce projet implémente un système de recommandation d’articles d’actualité de bout en bout, basé sur plusieurs approches complémentaires du machine learning.
